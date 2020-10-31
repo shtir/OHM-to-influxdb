@@ -1,6 +1,6 @@
 #!/bin/bash
 
 while true; do
-  python /root/OpenHardwareMonitor.py
+  python /root/OHM.py
   sleep 10;
 done
